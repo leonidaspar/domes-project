@@ -1,0 +1,20 @@
+BUILD, Building MINHEAP Time taken: 86200 nanoseconds.
+GETSIZE, size of MINHEAP is: 6 (Time taken: 300 nanoseconds)
+FINDMIN, min in heap is: 6 (Found in 300 nanoseconds). Time taken: 300 nanoseconds.
+INSERT, (15) in MINHEAP. Time taken: 300 nanoseconds.
+DELETEMIN, (6) in Minheap. Time taken: 700 nanoseconds.
+BUILD, Building MAXHEAP Time taken: 34600 nanoseconds.
+GETSIZE, size of MAXHEAP is: 6 (Time taken: 300 nanoseconds)
+FINDMAX, max in heap is: 17 (Found in 200 nanoseconds). Time taken: 200 nanoseconds.
+INSERT, (20) in MAXHEAP. Time taken: 300 nanoseconds.
+DELETEMAX, (20) in Maxheap. Time taken: 400 nanoseconds.
+BUILD, Building HASHTABLE Time taken: 88800 nanoseconds.
+GETSIZE, size of HASHTABLE is: 10 (Time taken: 700 nanoseconds)
+SEARCH, key 1 found in hashtable with value One. Time taken: 200 nanoseconds.
+SEARCH, key 10 found in hashtable with value Ten. Time taken: 0 nanoseconds.
+SEARCH, key 5 found in hashtable with value Five. Time taken: 100 nanoseconds.
+INSERT, (11) in HASHTABLE. Time taken: 1000 nanoseconds.
+INSERT, (12) in HASHTABLE. Time taken: 300 nanoseconds.
+SEARCH, key 11 found in hashtable with value Eleven. Time taken: 100 nanoseconds.
+SEARCH, key 12 found in hashtable with value Twelve. Time taken: 100 nanoseconds.
+GETSIZE, size of HASHTABLE is: 12 (Time taken: 300 nanoseconds)
